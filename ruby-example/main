@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+STDOUT.sync = true # IMPORTANT, NEED TO FLUSH CONTINUALLY
+
+20.times do |i|
+  puts "#{i}: Hello, world!"
+  sleep(1)
+end
