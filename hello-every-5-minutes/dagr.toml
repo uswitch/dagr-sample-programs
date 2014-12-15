@@ -1,2 +1,2 @@
 # every 5 minutes
-schedule = "* */5 * * * * *"
+schedule = "* */5 * * * *"
